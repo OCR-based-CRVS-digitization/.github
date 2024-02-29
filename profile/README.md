@@ -1,6 +1,11 @@
 ## OCR Based CRVS Form Digitalization
 A web platform built with Node.js, React.js, and PostgreSQL, utilizing OCR to process handwritten CRVS forms, extract information, and enable accurate digitalization and correction of values.
 
+## Project Repositories
+
+1. [OCR-Based CRVS Digitization Front_End](https://github.com/OCR-based-CRVS-digitization/OCR_Based_CRVS__Form_Digitalization)
+2. [OCR-Based CRVS Digitization Back_End](https://github.com/OCR-based-CRVS-digitization/CRVS_BackEnd)
+3. [OCR_Correction](https://github.com/OCR-based-CRVS-digitization/OCR-Correction)
 
 
 <!--
